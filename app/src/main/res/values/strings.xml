@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GSB</string>
+    <string name="password">mot de passe</string>
+    <string name="mail">mail</string>
+    <string name="h1">se connecter</string>
+    <string name="no_results">erreur deso</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_second">activity_second</string>
+
+</resources>
